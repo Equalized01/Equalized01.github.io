@@ -69,3 +69,14 @@ nav a:hover {
 .button:hover {
   background-color: #374151;
 }
+
+.projects {
+  margin-top: 60px;
+}
+
+.card {
+  background: #f9f9f9;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
